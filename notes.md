@@ -4,4 +4,4 @@ Learned about discord and the git cycle. Merged conflicts in [Conflict Test](con
 **Pull** \
 **Test** \
 **Commit** \
-**Push** \
+**Push**
