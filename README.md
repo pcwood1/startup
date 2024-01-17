@@ -4,7 +4,7 @@ This is intended to be a simplfied version of Gwent, a card mini-game found in t
 ### Elevator Pitch
 Have you ever wanted to have the convenience of the hit mini game Gwent at your fingertips, without needing to be chained to your desk? This webapp will allow you and a friend to do just that. Simply boot up the website, log in with a friend, and enter the add code. Once thats done, you both can take your turns at this game of strategy wherever you are.
 ### Design
-![Main Page Design](Pictures/design.png)
+![Main Page Design](Pictures/design2.png)
 ### Key Features
 - Requires Login
 - Stores and displays a users lifetime wins
